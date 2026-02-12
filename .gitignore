@@ -1,0 +1,4 @@
+public/
+workspace/
+node_modules/
+*.af~tmp
